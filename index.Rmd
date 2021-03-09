@@ -1,0 +1,19 @@
+---
+title: "Remigiusz Żulicki"
+image: "remigiusz-zulicki.jpg"
+links:
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Remigiusz-Zulicki"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/remigiusz-zulicki"
+  - label: CNB-Young
+    url: "https://crossnationalbiographies.edu.pl/en/"
+  - label: GitHub
+    url: "https://github.com/zremek/"
+  - label: Email
+    url: "mailto:remigiuszzulicki@protonmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Sociologist, working at the University of Lodz and Polish Academy of Science. My PhD thesis is devoted to social world of data science in Poland. Currently I am waiting for my final thesis defense. I am a research team member at Cross National Biographies project (CNB-Young), where we harmonize panel survey data regarding precarity in UK, USA, Germany and Poland. Open source and open science enthusiast.
