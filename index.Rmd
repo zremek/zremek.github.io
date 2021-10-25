@@ -4,6 +4,8 @@ image: "remigiusz-zulicki.jpg"
 links:
   - label: CNB-Young
     url: "https://crossnationalbiographies.edu.pl/en/"
+  - label: Trash in the Wild
+    url: "https://www.facebook.com/Dzikie-wysypiska-%C5%81%C3%B3d%C5%BA-107375974855911"
   - label: Data Science in Poland
     url: "https://repozytorium.uni.lodz.pl/handle/11089/35209" 
   - label: ResearchGate
@@ -18,4 +20,4 @@ output:
   postcards::jolla_blue
 ---
  
-Sociologist, working at the University of Lodz and Polish Academy of Sciences. My Ph.D. thesis is devoted to the social world of data science in Poland. I am a research team member at the Cross National Biographies project (CNB-Young), where we harmonize panel survey data regarding precarity in UK, USA, Germany, and Poland. Open source and open science enthusiast.
+Sociologist. Research team member at two projects: the 'Cross National Biographies' project (CNB-Young), where we harmonize panel survey data regarding precarity in UK, USA, Germany, and Poland; the 'Trash in the Wild': a pilot project devoted to mapping citizenship environmental activism in collaborative study in the Lodz area. Teaching social science research methods at the University of Lodz. My Ph.D. thesis was devoted to the social world of data science in Poland. Open source and open science enthusiast.
