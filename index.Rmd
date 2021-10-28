@@ -20,4 +20,4 @@ output:
   postcards::jolla_blue
 ---
  
-Sociologist. Research team member at two projects: the 'Cross National Biographies' project (CNB-Young), where we harmonize panel survey data regarding precarity in UK, USA, Germany, and Poland; the 'Trash in the Wild': a pilot project devoted to mapping citizenship environmental activism in collaborative study in the Lodz area. Teaching social science research methods at the University of Lodz. My Ph.D. thesis was devoted to the social world of data science in Poland. Open source and open science enthusiast.
+Sociologist. Research team member at: • the 'CNB-Young' project, where we harmonize panel survey data regarding precarity in UK, USA, Germany, and Poland; • the 'Trash in the Wild', a pilot project devoted to mapping citizenship environmental activism in a collaborative study. Teaching social science research methods at the University of Lodz. My Ph.D. thesis was concerned with the social world of data science in Poland. Open source and open science enthusiast.
