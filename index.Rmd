@@ -20,4 +20,4 @@ output:
   postcards::jolla_blue
 ---
  
-Sociologist. Research team member at: • the 'CNB-Young' project, where we harmonize panel survey data regarding precarity in UK, USA, Germany, and Poland; • the 'Trash in the Wild', a pilot project devoted to mapping citizenship environmental activism in a collaborative study. Teaching social science research methods at the University of Lodz. My Ph.D. thesis was concerned with the social world of data science in Poland. Open source and open science enthusiast.
+Sociologist. I harmonize panel survey data regarding precarity - 'CNB-Young' project, and map citizenship environmental activism - 'Trash in the Wild'. Teaching social science research methods at the University of Lodz. My Ph.D. thesis was concerned with the social world of data science in Poland. Open source and open science enthusiast.
