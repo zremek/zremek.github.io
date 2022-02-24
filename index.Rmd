@@ -5,7 +5,7 @@ links:
   - label: CNB-Young
     url: "https://crossnationalbiographies.edu.pl/en/"
   - label: Trash in the Wild
-    url: "https://www.facebook.com/Dzikie-wysypiska-%C5%81%C3%B3d%C5%BA-107375974855911"
+    url: "https://dzikiewysypiska.uni.lodz.pl"
   - label: Data Science in Poland
     url: "https://repozytorium.uni.lodz.pl/handle/11089/35209" 
   - label: ResearchGate
