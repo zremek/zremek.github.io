@@ -8,6 +8,8 @@ links:
     url: "https://dzikiewysypiska.uni.lodz.pl"
   - label: Data Science in Poland
     url: "https://repozytorium.uni.lodz.pl/handle/11089/35209" 
+  - label: Faculty of Economics and Sociology, University of Lodz
+    url: "https://www.eksoc.uni.lodz.pl/en/"
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Remigiusz-Zulicki"
   - label: GitHub
