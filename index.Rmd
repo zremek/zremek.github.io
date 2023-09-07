@@ -8,7 +8,7 @@ links:
     url: "https://dzikiewysypiska.uni.lodz.pl"
   - label: Data Science in Poland [Ph.D. thesis]
     url: "https://repozytorium.uni.lodz.pl/handle/11089/35209" 
-  - label: Data Sciece. The Sexiest Job of The 21st Century in Poland. Big data, AI and Power Point [book]
+  - label: Data Science. The Sexiest Job of The 21st c. in Poland. Big data, AI and Power Point [book]
     url: "https://wydawnictwo.uni.lodz.pl/produkt/data-science-najseksowniejszy-zawod-xxi-wieku-w-polsce/" 
   - label: Faculty of Economics and Sociology, University of Lodz
     url: "https://www.eksoc.uni.lodz.pl/en/"
