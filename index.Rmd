@@ -14,6 +14,8 @@ links:
     url: "https://www.uni.lodz.pl/en/about-the-university/councils/generative-ai-team-at-the-university-of-lodz"
   - label: Faculty of Economics and Sociology, University of Lodz
     url: "https://www.eksoc.uni.lodz.pl/en/"
+  - label: CV
+    url : "https://raw.githack.com/zremek/my_cv/main/cv.html"
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Remigiusz-Zulicki"
   - label: GitHub
