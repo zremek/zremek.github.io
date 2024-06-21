@@ -13,7 +13,7 @@ links:
   - label: Generative AI Team
     url: "https://www.uni.lodz.pl/en/about-the-university/councils/generative-ai-team-at-the-university-of-lodz"
   - label: Faculty of Economics and Sociology, University of Lodz
-    url: "https://www.eksoc.uni.lodz.pl/en/"
+    url: "https://www.eksoc.uni.lodz.pl/en/about-the-faculty/get-to-know-eksoc"
   - label: CV
     url : "https://raw.githack.com/zremek/my_cv/main/cv.html"
   - label: ResearchGate
@@ -28,4 +28,4 @@ output:
   postcards::jolla_blue
 ---
  
-Sociologist. I harmonize panel survey data regarding precarity - 'CNB-Young' project, and map citizenship environmental activism - 'Trash in the Wild'. Teaching social science research methods at the University of Lodz. My first book based on Ph.D. thesis is concerned with the social world of data science in Poland. Open source and open science enthusiast.
+Sociologist. I harmonize panel survey data regarding precarity - 'CNB-Young' project, and map citizenship environmental activism - 'Trash in the Wild'. Teaching social science research methods at the University of Lodz. My first book based on Ph.D. thesis is concerned with the social world of data science in Poland. Open source and open science enthusiast. Artificial intelligence skeptic. Interested in critical data studies, science and technology studies, and digital sociology.  
