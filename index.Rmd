@@ -2,9 +2,7 @@
 title: "Remigiusz Żulicki"
 image: "remigiusz-zulicki.jpg"
 links:
-  - label: CNB-Young
-    url: "https://crossnationalbiographies.edu.pl/en/"
-  - label: Trash in the Wild
+  - label: Illegal Trash Dumping
     url: "https://dzikiewysypiska.uni.lodz.pl"
   - label: Data Science in Poland [Ph.D. thesis]
     url: "https://repozytorium.uni.lodz.pl/handle/11089/35209" 
@@ -28,4 +26,4 @@ output:
   postcards::jolla_blue
 ---
  
-Sociologist. I harmonize panel survey data regarding precarity - 'CNB-Young' project, and map citizenship environmental activism - 'Trash in the Wild'. Teaching social science research methods at the University of Lodz. My first book based on Ph.D. thesis is concerned with the social world of data science in Poland. Open source and open science enthusiast. Artificial intelligence skeptic. Interested in critical data studies, science and technology studies, and digital sociology.  
+Sociologist. I study behaviors and opinions on generative AI. Member of a team investigating illegal trash dumps. Teaching social science research methods at the University of Lodz. My first book based on Ph.D. thesis is concerned with the social world of data science in Poland. Open source and open science enthusiast. Artificial intelligence skeptic. Interested in critical data studies, science and technology studies, and digital sociology.  
