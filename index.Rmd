@@ -2,6 +2,8 @@
 title: "Remigiusz Żulicki"
 image: "remigiusz-zulicki.jpg"
 links:
+  - label: ESS Ph.D. Workshops 2025
+    url: "https://drive.google.com/drive/folders/1RY13bDCogSpZ-w-w5vNpFyuhIB-jVuv3?usp=sharing"
   - label: Illegal Trash Dumping
     url: "https://dzikiewysypiska.uni.lodz.pl"
   - label: Data Science in Poland [Ph.D. thesis]
