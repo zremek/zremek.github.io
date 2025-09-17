@@ -26,4 +26,4 @@ output:
   postcards::jolla_blue
 ---
  
-Digital sociologist. I study behaviors and opinions on generative AI. Member of a team investigating illegal trash dumps. Teaching social science research methods at the University of Lodz. Open source and open science enthusiast. Artificial intelligence skeptic. Interested in critical data studies, science and technology studies, postcolonialism, and human geography.
+Digital sociologist. I study behaviors and opinions on generative AI. Member of a team investigating illegal trash dumps. Teaching social science research methods at the University of Lodz. Open source and open science enthusiast. Artificial intelligence skeptic. Interested in critical data studies, science and technology studies, situational analysis, postcolonialism, and human geography.
