@@ -6,8 +6,6 @@ links:
     url: "https://drive.google.com/drive/folders/1RY13bDCogSpZ-w-w5vNpFyuhIB-jVuv3?usp=sharing"
   - label: Illegal Trash Dumping
     url: "https://dzikiewysypiska.uni.lodz.pl"
-  - label: Data Science in Poland [Ph.D. thesis]
-    url: "https://repozytorium.uni.lodz.pl/handle/11089/35209" 
   - label: Data Science. The Sexiest Job of The 21st c. in Poland. Big data, AI and Power Point [book]
     url: "https://wydawnictwo.uni.lodz.pl/produkt/data-science-najseksowniejszy-zawod-xxi-wieku-w-polsce/" 
   - label: Generative AI Team
@@ -28,4 +26,4 @@ output:
   postcards::jolla_blue
 ---
  
-Sociologist. I study behaviors and opinions on generative AI. Member of a team investigating illegal trash dumps. Teaching social science research methods at the University of Lodz. My first book based on Ph.D. thesis is concerned with the social world of data science in Poland. Open source and open science enthusiast. Artificial intelligence skeptic. Interested in critical data studies, science and technology studies, and digital sociology.  
+Digital sociologist. I study behaviors and opinions on generative AI. Member of a team investigating illegal trash dumps. Teaching social science research methods at the University of Lodz. Open source and open science enthusiast. Artificial intelligence skeptic. Interested in critical data studies, science and technology studies, postcolonialism, and human geography.
